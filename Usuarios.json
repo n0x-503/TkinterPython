@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "senha": "12",
+    "saldo": 0
+  },
+  "Gabriel": {
+    "senha": "12",
+    "saldo": 0.0
+  },
+  "Lucas": {
+    "senha": "12",
+    "saldo": 1099.88
+  }
+}
